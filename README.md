@@ -1,4 +1,4 @@
-👋 Hi, I’m @samkimpepper
+👋 안녕하세요, @samkimpepper입니다. 
 
 ### 👀 관심분야
 - Backend
