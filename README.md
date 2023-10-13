@@ -7,7 +7,7 @@
 
 ### 🌱 공부 중
 - Spring boot
-- Linux
+- Django
 - ...
 
 <!---
